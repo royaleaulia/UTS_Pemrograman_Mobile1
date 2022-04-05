@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Macam-macam mobil</string>
+    <string name="affirmation1">Coupe Car adalah badan mobil yang umumnya memiliki 2 pintu.</string>
+    <string name="affirmation2">Covertible Car adalah mobil yang memiliki desain dengan atap yang dapat di buka. </string>
+    <string name="affirmation3">Double Cabin Car adalah mobil yang memiliki desain seperti mobil SUV namun memiliki tambahan ruang/bak terbuka di bagian belakangnya. </string>
+    <string name="affirmation4">Hatcback Car adalah mobil memiliki 5 pintu (samping depan dan belakang, serta bagian bagasi) dengan desain ruang bagasi yang menyatu dengan kabin. </string>
+    <string name="affirmation5">MPV Car adalah mobil yang memiliki 5 pintu yang didesain untuk kenyamanan berkendara untuk keluarga dikarenakan kapasitas penumpang yang banyak dan muat sekeluarga. </string>
+    <string name="affirmation6">Offroad Car adalah mobil dengan  konstruksi lantai yang tinggi dari tanah akan memungkinkan mobil ini dapat digunakan disegala medan terutama jalan yang tidak rata.</string>
+    <string name="affirmation7">Sedan Car adalah mobil yang dibuat dengan desain yang elegan</string>
+    <string name="affirmation8">Sport Car adalah mobil dengan desain mirip bentuknya dengan mobil sedan namun dari segi bentuk lebih aerodinamis dan sporty dengan dilengkapi dengan mesin cc besar, dan desain serta pengendalian yang mewah </string>
+    <string name="affirmation9">Station Wagon Car adalah mobil yang memiliki desain dengan atap yang panjang dan kargo/bagasi yang cukup luas. </string>
+    <string name="affirmation10">SUV Car adalah mobil yang mirip dengan mobil jenis MPV, tetapi sebenarnya mobil ini didesain dari perpaduan mobil sedan dengan mobil jeep.</string>
+</resources>
+
